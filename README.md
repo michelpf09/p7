@@ -5,9 +5,9 @@
 
 Foto Artista
 
-##### Ano de nascimento
-##### Ano de falecimento
+##### Ano de nascimento:
+##### Ano de falecimento:
 
 ##### Quadros:
-##### Nome do Quadro
+##### Nome do quadro: 
 ##### Localização:
