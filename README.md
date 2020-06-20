@@ -1,7 +1,7 @@
 # p7 - Estrutura das paginas
 
 # Nome do Artista
-### Nome Escola artística
+###### Nome Escola artística
 
 Foto Artista
 
